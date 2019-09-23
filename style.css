@@ -8,19 +8,4 @@ label {
     margin: .4rem 0;
 }
 input {width: 150px;}
-form.form-example {
-    display: table;
-}
-
-div.form-example {
-    display: table-row;
-}
-
-label, input {
-    display: table-cell;
-    margin-bottom: 10px;
-}
-
-label {
-    padding-right: 10px;
-}
+input {border-radius: 50% 20% / 10% 40%;}
